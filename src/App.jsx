@@ -12,6 +12,10 @@ function App() {
         hablar('vienbenido a indacursos')
         console.log(aleat)
         }}>vienbenido</button>         
+      <button onClick={()=>{
+        hablar('que bonito es escuchar el canto de los pájaros')
+        console.log(aleat)
+        }}>vienbenido</button>         
     </div>
   )
 }
